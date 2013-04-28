@@ -4,4 +4,7 @@
   <!-- Ambient display as active display -->
   <java-symbol type="bool" name="config_dozeUseAccelerometer" />
 
+   <!-- In WiFi AP notification -->
+  <java-symbol type="string" name="notify_turn_wifi_ap_off_title" />
+
 </resources>
