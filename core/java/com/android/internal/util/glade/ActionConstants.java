@@ -16,7 +16,7 @@
 
 package com.android.internal.util.glade;
 
-public class GladeActionConstants {
+public class ActionConstants {
 
     // key must fit with the values arrays from Settings to use
     // GladeActions.java actions
